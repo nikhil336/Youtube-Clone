@@ -6,7 +6,7 @@ class NavBar extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            val: "upgrad",
+            val: "react",
             flag: true,
             api_key: "Add API KEY here"
         };
